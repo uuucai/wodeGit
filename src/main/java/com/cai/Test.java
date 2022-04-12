@@ -7,5 +7,6 @@ public class Test {
         System.out.println(888);
         System.out.println("hot-fix1");
         System.out.println("master1");
+        System.out.println("test commit");
     }
 }
